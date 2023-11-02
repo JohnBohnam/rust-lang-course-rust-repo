@@ -1,9 +1,9 @@
 # rust-lang-course-rust-repo
-_Minimal template for a rust project repository_
+_Szablon repozytorium dla projektu w języku Rust_
 
-## Tasks
+## Zadania
 
-1. Create a new repository on GitHub from this template.
-2. Add two new steps to CI:
-   - linter pass (`cargo clippy`)
-   - test execution (`cargo test`)
+1. Stwórz nowe (prywatne!) repozytorium na podstawie szablonu ([tutorial](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)).
+2. Dodaj dwa kolejne kroki CI:
+   - odpalenie lintera (`cargo clippy`)
+   - odpalenie testów (`cargo test`)
