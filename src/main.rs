@@ -1,11 +1,17 @@
+
+
 fn main() {
-    println!("Hello, world!");
+    // println!("Hello, world!");
+    let hh = head(PathBuf::from("./src/main.rs"), 10);
+    for line in hh {
+        println!("{}", line);
+    }
 }
 
 #[cfg(test)]
 mod tests {
     #[test]
     fn test_math() {
-        assert_eq!(1 + 1, 3);
+        assert_eq!(1 + 1, 2);
     }
 }
