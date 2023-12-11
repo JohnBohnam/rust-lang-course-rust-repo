@@ -2,7 +2,7 @@
 name = "head_tail"
 version = "0.1.0"
 edition = "2021"
-licence = "MIT"
+license = "MIT"
 description = "nie jedzcie ostrego"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
